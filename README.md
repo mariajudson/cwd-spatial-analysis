@@ -22,12 +22,6 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 - Bar chart ranking states by number of affected counties;
 - Dynamic filtering using slicers.
 
-## Key Insights
-- CWD cases are highly concentrated in Midwestern states, indicating regional clustering rather than uniform national distribution.
-- The disease shows clear geographic patterns, suggesting environmental and ecological factors may influence its spread.
-- Wild cervid populations consistently show higher case counts than captive populations across most states.
-- The broader distribution of wild cases suggests more extensive transmission dynamics in free-ranging populations compared to localized captive settings.
-
 ## Dashboard Preview
 ![Full Power BI Dashboard](images/CWD_Dashboard.png)
 
@@ -44,6 +38,12 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 ![Wild vs Captive CWD Distribution Map](images/wild_vs_captive.png)
 
 *Figure 3. Spatial distribution of wild and captive CWD cases across U.S. states, highlighting differences in geographic spread between populations.*
+
+## Key Insights
+- CWD cases are highly concentrated in Midwestern states, indicating regional clustering rather than uniform national distribution.
+- The disease shows clear geographic patterns, suggesting environmental and ecological factors may influence its spread.
+- Wild cervid populations consistently show higher case counts than captive populations across most states.
+- The broader distribution of wild cases suggests more extensive transmission dynamics in free-ranging populations compared to localized captive settings.
 
 ## Analysis Highlights
 
