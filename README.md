@@ -25,13 +25,13 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 - Disease distribution is geographically clustered.
 
 ## Dashboard Preview
-![Full Power BI Dashboard](images/dashboard.png)
+![Full Power BI Dashboard](images/CWD_Dashboard.png)
 
 *Figure 1. Interactive Power BI dashboard showing CWD distribution across U.S. states.*
 
 ## Key Visualization
 
-![CWD Top 15 States Graph](images/cwd_map.png)
+![CWD Top 15 States Graph](images/Top_15_states.png)
 
 *Figure 2. Graph showing Top 15 States affected by CWD.*
 
