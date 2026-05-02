@@ -1,3 +1,5 @@
+## Data Analytics Portfolio Project | Power BI | Spatial Analysis
+
 # US Chronic Wasting Disease (CWD) Exploratory Spatial Analysis
 
 ## Overview
@@ -21,8 +23,8 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 - Dynamic filtering using slicers.
 
 ## Key Insights
-- Midwestern states show the highest concentration of CWD cases.
-- Disease distribution is geographically clustered.
+- Midwestern states show the highest concentration of CWD cases;
+- CWD is more common in specific regions rather than evenly distributed across states.
 
 ## Dashboard Preview
 ![Full Power BI Dashboard](images/CWD_Dashboard.png)
@@ -33,7 +35,7 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 
 ![CWD Top 15 States Graph](images/Top_15_states.png)
 
-*Figure 2. Graph showing Top 15 States affected by CWD.*
+*Figure 2. Top 15 U.S. states ranked by number of CWD-affected counties.*
 
 ## How to Reproduce
 1. Load dataset into Python / SQL;
