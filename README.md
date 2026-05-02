@@ -23,26 +23,37 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 - Dynamic filtering using slicers.
 
 ## Key Insights
-- Midwestern states show the highest concentration of CWD cases;
-- CWD is more common in specific regions rather than evenly distributed across states.
-- Wild CWD cases significantly exceed captive cases across most states, indicating broader environmental transmission and spread among free-ranging populations.
+- CWD cases are highly concentrated in Midwestern states, indicating regional clustering rather than uniform national distribution.
+- The disease shows clear geographic patterns, suggesting environmental and ecological factors may influence its spread.
+- Wild cervid populations consistently show higher case counts than captive populations across most states.
+- The broader distribution of wild cases suggests more extensive transmission dynamics in free-ranging populations compared to localized captive settings.
 
 ## Dashboard Preview
 ![Full Power BI Dashboard](images/CWD_Dashboard.png)
 
-*Figure 1. Interactive Power BI dashboard showing CWD distribution across U.S. states.*
+*Figure 1. Interactive Power BI dashboard showing wild CWD distribution across U.S. states.*
 
 ## Key Visualization
 
 ![CWD Top 15 States Graph](images/Top_15_states.png)
 
-*Figure 2. Top 15 U.S. states ranked by number of CWD-affected counties.*
+*Figure 2. Top 15 U.S. states ranked by number of wild CWD-affected counties.*
 
-## How to Reproduce
-1. Load dataset into Python / SQL;
-2. Aggregate by state;
-3. Export to CSV;
-4. Build visuals in Power BI.
+## Additional Visualization
+
+![Wild vs Captive CWD Distribution Map](images/wild_vs_captive.png)
+
+*Figure 3. Spatial distribution of wild and captive CWD cases across U.S. states, highlighting differences in geographic spread between populations.*
+
+## Analysis Highlights
+
+This analysis highlights the importance of monitoring wild populations to better understand and manage the spread of CWD.
+
+## Analytical Approach
+- Data cleaning and standardization in Python;
+- Aggregation by state level;
+- Comparative analysis between wild and captive datasets;
+- Visualization using Power BI.
 
 ## Author
 Maria Julia Judson
