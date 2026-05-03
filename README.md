@@ -26,7 +26,7 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 ## Dashboard Preview
 ![Full Power BI Dashboard](images/wild_cwd_dashboard.png)
 
-*Figure 1. Interactive Power BI dashboard showing wild CWD distribution across U.S. states.*
+*Figure 1. Interactive Power BI dashboard showing wild CWD distribution across 36 U.S. states.*
 
 ## Key Visualization
 
