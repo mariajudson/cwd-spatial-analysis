@@ -23,6 +23,7 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 - Interactive map showing disease distribution by state in wild cervid populations;
 - Dynamic filtering using slicers (number of affected counties by state);
 
+
 ## Dashboard Preview
 ![Full Power BI Dashboard](images/wild_cwd_dashboard.png)
 
@@ -41,14 +42,16 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 *Figure 3. Spatial distribution of wild and captive CWD cases across U.S. states, highlighting differences in geographic spread between populations.*
 
 ## Key Insights
-- CWD cases are highly concentrated in Midwestern states, indicating regional clustering rather than uniform national distribution.
-- The disease shows clear geographic patterns, suggesting environmental and ecological factors may influence its spread.
-- Wild cervid populations consistently show higher case counts than captive populations across most states.
-- The broader distribution of wild cases suggests more extensive transmission dynamics in free-ranging populations compared to localized captive settings.
+- CWD cases are regionally concentrated, particularly in Midwestern states, indicating spatial clustering rather than uniform national distribution.
+- Wild cervid populations show consistently higher geographic spread compared to captive populations.
+- States such as Wisconsin and Colorado present relatively higher captive CWD presence, suggesting potential epidemiological or surveillance differences.
+- The broader distribution in wild populations reflects complex transmission dynamics in free-ranging systems.
+
 
 ## Analysis Highlights
 
-This analysis highlights the importance of monitoring wild populations to better understand and manage the spread of CWD.
+This analysis emphasizes the importance of wildlife surveillance and spatial monitoring in understanding and managing CWD spread.
+The comparison between wild and captive populations provides insights into disease ecology, control challenges, and potential risk interfaces.
 
 ## Analytical Approach
 - Data cleaning and preprocessing in Python;
