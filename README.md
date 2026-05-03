@@ -24,22 +24,26 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 - Dynamic filtering using slicers (number of affected counties by state);
 
 
+
 ## Dashboard Preview
 ![Full Power BI Dashboard](images/wild_cwd_dashboard.png)
 
-*Figure 1. Interactive Power BI dashboard showing wild CWD distribution across 36 U.S. states.*
+*Figure 1. Interactive Power BI dashboard showing wild CWD spatial distribution across 36 U.S. states.*
+
 
 ## Key Visualization
 
 ![CWD Top 15 States Graph](images/top10_captive.png)
 
-*Figure 2. Top 10 US States reporting captive CWD presence, in decreasing order.*
+*Figure 2. Top 10 U.S. States reporting captive CWD presence, in decreasing order.*
+
 
 ## Additional Visualization
 
 ![Wild vs Captive CWD Distribution Map](images/wild_vs_captive.png)
 
 *Figure 3. Spatial distribution of wild and captive CWD cases across U.S. states, highlighting differences in geographic spread between populations.*
+
 
 ## Key Insights
 - CWD cases are regionally concentrated, particularly in Midwestern states, indicating spatial clustering rather than uniform national distribution.
@@ -61,4 +65,4 @@ The comparison between wild and captive populations provides insights into disea
 - Development of interactive visualizations in Power BI.
 
 ## Author
-Dr. Maria Julia Judson, DVM, MSC.
+*Dr. Maria Julia Judson, DVM, MSC.*
