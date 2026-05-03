@@ -1,26 +1,27 @@
 ## Data Analytics Portfolio Project | Power BI | Spatial Analysis
 
-# US Chronic Wasting Disease (CWD) Exploratory Spatial Analysis in Wild and Captive Cervid Populations Across U.S. States
+# US Chronic Wasting Disease (CWD) - Exploratory Data Analysis/Wild and Captive Positive Cervid Population Distribution
 
 ## Overview
-This project analyzes the geographic distribution of Chronic Wasting Disease (CWD) in wild and captive cervid populations across U.S. states using Power BI.
+This project explores the geographic distribution of Chronic Wasting Disease (CWD) in both wild and captive cervid populations across the United States.
+Using Python for data processing and Power BI for visualization, the analysis highlights spatial patterns, state-level differences, and contrasts between wild and captive disease presence.
 
 ## Objectives
-- Identify states with the highest number of affected counties;
-- Visualize counts of disease per state; 
-- Build an interactive dashboard for exploration;
+- Identify states with the highest number of CWD-affected counties;
+- Compare disease distribution between wild and captive populations;
+- Develop an interactive dashboard for exploratory analysis.
 
 ## Tools Used
-- Python via Google Colab
-- Power BI
+- Python (Jupyter Notebook / Colab) – data cleaning and transformation;
+- Power BI – interactive dashboard and visualizations.
 
 ## Data Source
 U.S. Geological Survey (USGS) – CWD distribution in the US by state and county (ver. 3.0, June 2025).
 
 ## Key Features
-- Interactive map showing disease distribution by state in wild and captive cervid populations;
-- Bar chart ranking states by number of affected counties;
-- Dynamic filtering using slicers.
+- Bar charts ranking states by number of affected counties;
+- Interactive map showing disease distribution by state in wild cervid populations;
+- Dynamic filtering using slicers (number of affected counties by state);
 
 ## Dashboard Preview
 ![Full Power BI Dashboard](images/CWD_Dashboard.png)
@@ -50,10 +51,11 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 This analysis highlights the importance of monitoring wild populations to better understand and manage the spread of CWD.
 
 ## Analytical Approach
-- Data cleaning and standardization in Python;
-- Aggregation by state level;
-- Comparative analysis between wild and captive datasets;
-- Visualization using Power BI.
+- Data cleaning and preprocessing in Python;
+- Aggregation at the state level (number of affected counties);
+- Integration of wild and captive datasets;
+- Comparative analysis between populations;
+- Development of interactive visualizations in Power BI.
 
 ## Author
-Maria Julia Judson
+Dr. Maria Julia Judson, DVM, MSC.
