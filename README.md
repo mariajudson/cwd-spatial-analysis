@@ -12,7 +12,7 @@ Using Python for data processing and Power BI for visualization, the analysis hi
 - Develop an interactive dashboard for exploratory analysis.
 
 ## Tools Used
-- Python (Jupyter Notebook / Colab) – data cleaning and transformation;
+- Python (Jupyter Notebook / Colab) – data cleaning and manipulation;
 - Power BI – interactive dashboard and visualizations.
 
 ## Data Source
