@@ -30,9 +30,9 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 
 ## Key Visualization
 
-![CWD Top 15 States Graph](images/Top_15_states.png)
+![CWD Top 15 States Graph](images/top10_captive.png)
 
-*Figure 2. Top 15 U.S. states ranked by number of wild CWD-affected counties.*
+*Figure 2. Top 10 US States reporting captive CWD presence, in decreasing order.*
 
 ## Additional Visualization
 
