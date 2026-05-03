@@ -24,7 +24,7 @@ U.S. Geological Survey (USGS) – CWD distribution in the US by state and county
 - Dynamic filtering using slicers (number of affected counties by state);
 
 ## Dashboard Preview
-![Full Power BI Dashboard](images/CWD_Dashboard.png)
+![Full Power BI Dashboard](images/wild_cwd_dashboard.png)
 
 *Figure 1. Interactive Power BI dashboard showing wild CWD distribution across U.S. states.*
 
