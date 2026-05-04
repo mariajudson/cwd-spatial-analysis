@@ -64,5 +64,8 @@ The comparison between wild and captive populations provides insights into disea
 - Comparative analysis between populations;
 - Development of interactive visualizations in Power BI.
 
+## Notebook
+[View the full Python analysis](cwd_project_v4.ipynb)
+
 ## Author
 *Dr. Maria Julia Judson, DVM, MSC.*
