@@ -65,7 +65,7 @@ The comparison between wild and captive populations provides insights into disea
 - Development of interactive visualizations in Power BI.
 
 ## Notebook
-[View the full Python analysis](https://github.com/mariajudson/cwd-spatial-analysis/blob/main/cwd_project_v4.ipynb)
+[View the full Python analysis](https://github.com/mariajudson/cwd-spatial-analysis/blob/main/notebooks/cwd_project_v4.ipynb)
 
 ## Author
 *Dr. Maria Julia Judson, DVM, MSC.*
