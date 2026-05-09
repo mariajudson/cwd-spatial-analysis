@@ -28,6 +28,7 @@ Python was used for data cleaning, aggregation, and exploratory analysis. Power 
 |---|---|
 | Data cleaning & analysis | Python (pandas, matplotlib, seaborn) |
 | Notebook environment | Jupyter Notebook / Google Colab |
+| Database querying | SQL (SQLite) |
 | Interactive visualization | Power BI |
 
 ---
