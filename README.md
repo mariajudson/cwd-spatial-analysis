@@ -64,11 +64,11 @@ Python was used for data cleaning, aggregation, and exploratory analysis. Power 
 
 ## Analytical Approach
 
-- Loaded and standardized raw USGS CSV datasets (wild and captive)
-- Aggregated data at the state level by count of CWD-positive counties
-- Merged wild and captive datasets to enable direct population comparison
-- Calculated wild-to-captive county ratios to identify epidemiological outliers
-- Exported clean, aggregated data for Power BI dashboard development
+- Loaded and standardized raw USGS CSV datasets (wild and captive);
+- Aggregated data at the state level by count of CWD-positive counties;
+- Merged wild and captive datasets to enable direct population comparison;
+- Calculated wild-to-captive county ratios to identify epidemiological outliers;
+- Exported clean, aggregated data for Power BI dashboard development.
 
 ---
 
