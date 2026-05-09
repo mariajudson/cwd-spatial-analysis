@@ -54,11 +54,11 @@ Python was used for data cleaning, aggregation, and exploratory analysis. Power 
 ![Full Power BI Dashboard](images/wild_cwd_dashboard.png)
 *Figure 1. Interactive Power BI dashboard showing wild CWD spatial distribution across 36 U.S. states.*
 
-![Wild vs Captive CWD Distribution](images/wild_vs_captive.png)
-*Figure 2. Comparative spatial distribution of wild and captive CWD cases across U.S. states.*
+![Wild CWD Distribution](images/Wild_CWD.png)
+*Figure 2. Comparative spatial distribution of wild CWD cases across U.S. states.*
 
-![Top 10 States — Captive CWD](images/top10_captive.png)
-*Figure 3. Top 10 U.S. states reporting captive CWD presence, ranked by number of affected counties.*
+![Top 10 States — Wild vs. Captive CWD](images/top10_wild&captive.png)
+*Figure 3. Comparative spatial distribution of the Top 10 U.S. states reporting wild vs. captive CWD presence, ranked by number of affected counties.*
 
 ---
 
@@ -80,8 +80,8 @@ cwd-spatial-analysis/
 │   └── cwd_analysis.ipynb       # Full Python analysis
 ├── images/
 │   ├── wild_cwd_dashboard.png
-│   ├── wild_vs_captive.png
-│   └── top10_captive.png
+│   ├── Wild_CWD.png.png
+│   └── top10_wild&captive.png
 └── README.md
 ```
 
@@ -96,7 +96,8 @@ cwd-spatial-analysis/
 ## Author
 
 **Dr. Maria Julia Judson, DVM, MSc**
-Veterinarian · Data Analyst · Wildlife Epidemiology
-PhD Student in Health Technology
+
+
+Wildlife Veterinarian · Data Analyst · PhD Student in Health Technology
 
 *Open to data analytics roles*
