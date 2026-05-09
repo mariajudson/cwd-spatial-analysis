@@ -80,7 +80,7 @@ cwd-spatial-analysis/
 │   └── cwd_analysis.ipynb       # Full Python analysis
 ├── images/
 │   ├── wild_cwd_dashboard.png
-│   ├── Wild_CWD.png.png
+│   ├── Wild_CWD.png
 │   └── top10_wild&captive.png
 └── README.md
 ```
