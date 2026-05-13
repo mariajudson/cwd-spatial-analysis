@@ -35,7 +35,7 @@ Python was used for data cleaning, aggregation, and exploratory analysis. Power 
 
 ## Data Source
 
-**U.S. Geological Survey (USGS)** — CWD Distribution in the US by State and County (ver. 3.0, June 2025)
+**U.S. Geological Survey (USGS)** - CWD Distribution in the US by State and County (ver. 3.0, June 2025)
 
 ---
 
