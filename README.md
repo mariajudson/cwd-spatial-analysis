@@ -1,4 +1,4 @@
-# US Chronic Wasting Disease (CWD) — Spatial Distribution Analysis
+# US Chronic Wasting Disease (CWD) - Spatial Distribution Analysis
 ### Wild and Captive Positive Cervid Populations | Exploratory Data Analysis
 
 *Data Analytics Portfolio Project · Python · Power BI · Spatial Analysis*
